@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "GPIOsimulator",
+  "outputfilename": "GPIOsimulator",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "darkb0ts",
+    "email": "prasanna110600@gmail.com"
+  }
+}
